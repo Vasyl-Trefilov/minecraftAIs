@@ -1,0 +1,12 @@
+venv/
+.venv/
+*.keras
+chop_dataset/
+pvp_dataset/
+mouse_clip.txt
+*.pyc
+__pycache__/
+.idea/
+.vscode/
+tmpscreens/
+*.log
